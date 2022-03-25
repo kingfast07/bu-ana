@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bu-ana/static/css/main.c88f3607.css",
+    "main.js": "/bu-ana/static/js/main.76ae2045.js",
+    "static/media/video.mp4": "/bu-ana/static/media/video.f4ae04bed5cedd578ea8.mp4",
+    "static/media/weddings.png": "/bu-ana/static/media/weddings.3d4d72b7251429f34e0c.png",
+    "static/media/photo-2.png": "/bu-ana/static/media/photo-2.44275c7fe50aceeea28f.png",
+    "static/media/photo-1.png": "/bu-ana/static/media/photo-1.a4aa6011caba89e1f3f5.png",
+    "static/media/hero.png": "/bu-ana/static/media/hero.90fcc167cf84ee6a5cb0.png",
+    "static/media/makanan.jpg": "/bu-ana/static/media/makanan.52e073b7ec54af9f8510.jpg",
+    "static/media/bakso.jpg": "/bu-ana/static/media/bakso.9d677fba8b52d28c15f4.jpg",
+    "static/media/cola.jpeg": "/bu-ana/static/media/cola.d1da05781e76b4fc9328.jpeg",
+    "static/media/tear.png": "/bu-ana/static/media/tear.1e23bae1fc3084f1f43b.png",
+    "index.html": "/bu-ana/index.html",
+    "main.c88f3607.css.map": "/bu-ana/static/css/main.c88f3607.css.map",
+    "main.76ae2045.js.map": "/bu-ana/static/js/main.76ae2045.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c88f3607.css",
+    "static/js/main.76ae2045.js"
+  ]
+}
