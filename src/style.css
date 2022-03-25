@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Hurricane&family=Open+Sans:wght@300&family=Roboto:wght@100;400;700;900&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  /* border: 2px solid blue; */
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+  padding: 0px 5rem;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* border: 1px solid red; */
+}
+
+.tear-top {
+  position: absolute;
+  width: 120%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  z-index: 3;
+}
+
+.tear-bottom {
+  position: absolute;
+  width: 120%;
+  bottom: 0px;
+  right: 50%;
+  transform: rotateZ(180deg) translateX(-50%) translateY(-50%);
+  z-index: 3;
+}
+
+@media only screen and (max-width: 600px) {
+  html {
+    padding: 0;
+  }
+}

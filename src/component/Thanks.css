@@ -1,0 +1,39 @@
+.thanks {
+  background-color: #73675fcc;
+  min-height: 100vh;
+  width: 90vw;
+  position: relative;
+  overflow: hidden;
+  margin: 5% 0px;
+}
+
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+  white-space: nowrap;
+}
+
+@media only screen and (max-width: 900px) {
+  .thanks {
+    min-height: 50vh;
+  }
+  .text h1 {
+    font-size: 3rem;
+  }
+  .text h2 {
+    font-size: 2rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .text h1 {
+    font-size: 2rem;
+  }
+  .text h2 {
+    font-size: 1rem;
+  }
+}

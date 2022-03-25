@@ -1,0 +1,18 @@
+.footer {
+  overflow: hidden;
+  position: relative;
+  min-height: 80vh;
+  width: 90vw;
+  background-color: #73675fcc;
+}
+
+.footer-content {
+  color: white;
+  position: absolute;
+  text-align: center;
+  width: 80%;
+
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
